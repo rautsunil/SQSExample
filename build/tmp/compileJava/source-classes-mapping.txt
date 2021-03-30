@@ -1,0 +1,4 @@
+com/suntecx/testspringSQS/sunil/SqsConfig.java
+ com.suntecx.testspringSQS.sunil.SqsConfig
+com/suntecx/testspringSQS/sunil/SunilApplication.java
+ com.suntecx.testspringSQS.sunil.SunilApplication
